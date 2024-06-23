@@ -4,7 +4,7 @@ import Tech from './components/Tech'
 import Intro from './components/Intro'
 import FeaturedProjects from './components/FeaturedProjects'
 import Contact from './components/Contact'
-import { Footer } from './components/Footer'
+import Footer from './components/Footer'
 
 function App() {
 

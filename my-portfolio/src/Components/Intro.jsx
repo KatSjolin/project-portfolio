@@ -8,10 +8,15 @@ const Intro = () => {
         <div className="text-container">
           <h1>Hi, I'm Katarina Sjölin</h1>
           <h2>Front end developer</h2>
-          <p>I love programming and enjoy creating beautiful and functional web applications.</p>
+          <p>I love programming and enjoy creating beautiful and functional web applications. I enjoy learning new skills and focus on user-friendliness.</p>
+        </div>
+        <div className="arrow">
+          <img src="/arrow.svg"alt="Arrow pointing down." />
         </div>
       </section>
     );
 };
 
 export default Intro;
+
+

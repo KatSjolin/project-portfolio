@@ -16,15 +16,6 @@ h2 {
   color: #333;
 }
 
-img {
-  width: 100%;
-  max-width: 100%;
-  border-left: 5px solid blue; 
-  border-bottom: 5px solid blue; 
-  margin-bottom: 15px;
-  border-radius: 8px; 
-}
-
 h3 {
   font-size: 1.5em;
   margin: 15px 0;
@@ -48,4 +39,5 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 
