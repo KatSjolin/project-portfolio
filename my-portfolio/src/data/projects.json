@@ -1,0 +1,68 @@
+{
+    "projects": [
+      {
+        "image": "./labyrinth.png",
+        "name": "Project Labyrinth for Technigo",
+        "description": "bla bla",
+        "techniques": ["React", "API", "CSS", "HTML", "JavaScript", "Zustand"],
+        "netlify": "https://kats-labyrinth.netlify.app/",
+        "github": "https://github.com/KatSjolin/project-labyrinth-zustand-vite"
+      },
+      {
+        "image": "./movies.png",
+        "name": "Movie Site for Technigo",
+        "description": "bla bla",
+        "techniques": ["React", "API", "CSS", "HTML", "JavaScript"],
+        "netlify": "https://katarinas-movie-site.netlify.app/",
+        "github": "https://github.com/KatSjolin/project-movies-vite"
+      },
+      {
+        "image": "./weather.png",
+        "name": "Weather App for Technigo",
+        "description": "bla bla",
+        "techniques": ["React", "API", "CSS", "HTML"],
+        "netlify": "https://rococo-sunburst-79526b.netlify.app/",
+        "github": "https://github.com/KatSjolin/project-weather-app"
+      },
+      {
+        "image": "./happy.png",
+        "name": "Happy Thoughts for Technigo",
+        "description": "bla bla",
+        "techniques": ["React", "API", "CSS"],
+        "netlify": "https://katarina-happy-thoughts.netlify.app/",
+        "github": "https://github.com/KatSjolin/project-happy-thoughts-vite"
+      },
+      {
+        "image": "./easter.png",
+        "name": "Easter Survey for Technigo",
+        "description": "bla bla",
+        "techniques": ["React", "CSS"],
+        "netlify": "https://katarina-easter-survey.netlify.app/",
+        "github": "https://github.com/KatSjolin/project-survey-vite"
+      },
+      {
+        "image": "./music.png",
+        "name": "Music Releases for Technigo",
+        "description": "bla bla",
+        "techniques": ["React", "Spotify API", "CSS"],
+        "netlify": "https://katarina-music-releases.netlify.app/",
+        "github": "https://github.com/KatSjolin/project-music-releases-vite"
+      },
+      {
+        "image": "./todo.png",
+        "name": "Todo App for Technigo",
+        "description": "bla bla",
+        "techniques": ["HTML5", "CSS3", "JavaScript", "React", "API", "useContext"],
+        "netlify": "https://kats-todo-app.netlify.app/",
+        "github": "https://github.com/KatSjolin/project-todos-context-vite"
+      },
+      {
+        "image": "./toddler.png",
+        "name": "Technigo News App",
+        "description": "bla bla",
+        "techniques": ["HTML5", "CSS3"],
+        "netlify": "https://toddler-world.netlify.app/",
+        "github": "https://github.com/KatSjolin/project-news-site"
+      }
+    ]
+}
