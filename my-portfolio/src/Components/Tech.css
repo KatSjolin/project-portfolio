@@ -1,6 +1,6 @@
 .tech-section {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     background-color: blue;
     color: white;
@@ -29,4 +29,5 @@
     font-size: 1.2em;
     line-height: 1.6;
     color: white;
+    max-width: 600px;
 }

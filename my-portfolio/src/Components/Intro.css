@@ -9,9 +9,10 @@
     height: 100vh;
     width: 100vw;
     margin: 0;
+    position: relative;
 }
 
-#intro img {
+.profile-pic img {
     width: 180px;
     height: 180px;
     border-radius: 50%;
@@ -39,12 +40,16 @@
 
 .text-container {
     max-width: 600px;
-    text-align: left;
-    margin-left: 20px;
+    text-align: center;
+    margin: 20px;
 }
 
-.arrow img {
-    animation: bounce 2s infinite;
+.arrow {
+    position: absolute;
+    bottom: 20px;
+    width: 40px;
+    height: auto;
+    animation: bounce 1s linear infinite;
 }
 
 @keyframes bounce {
