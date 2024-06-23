@@ -1,0 +1,23 @@
+.footer {
+    background-color: #d81b60;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+}
+  
+.moving-text {
+    display: inline-block;
+    animation: move-text 20s linear infinite;
+    color: white;
+}
+  
+@keyframes move-text {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+}

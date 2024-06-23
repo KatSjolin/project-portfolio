@@ -1,26 +1,13 @@
-import { useState, useEffect } from 'react';
 import projectsData from '../data/projects.json';
+import './FeaturedProjects.css';
 
 const FeaturedProjects = () => {
-  const [projects, setProjects] = useState([]);
-
-  useEffect(() => {
-    if (projectsData && Array.isArray(projectsData.projects)) {
-      setProjects(projectsData.projects);
-    } else {
-      console.error('projectsData.projects is not an array', projectsData);
-    }
-  }, []);
-
-  return (
-    <div>
-      <h2>Featured Projects</h2>
-      {projects.length === 0 ? (
-        <p>No projects to display</p>
-      ) : (
+    return (
+      <section className="featured-projects">
+        <h2>Featured Projects</h2>
         <ul>
-          {projects.map((project, index) => (
-            <li key={index}>
+          {projectsData.projects.map((project, index) => (
+            <li key={index} className="project">
               <img src={project.image} alt={project.name} />
               <h3>{project.name}</h3>
               <p>{project.description}</p>
@@ -30,9 +17,8 @@ const FeaturedProjects = () => {
             </li>
           ))}
         </ul>
-      )}
-    </div>
-  );
+      </section>
+    );
 };
-
+  
 export default FeaturedProjects;

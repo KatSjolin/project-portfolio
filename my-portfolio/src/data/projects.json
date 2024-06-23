@@ -2,7 +2,7 @@
     "projects": [
       {
         "image": "./labyrinth.png",
-        "name": "Project Labyrinth for Technigo",
+        "name": "Project Labyrinth",
         "description": "bla bla",
         "techniques": ["React", "API", "CSS", "HTML", "JavaScript", "Zustand"],
         "netlify": "https://kats-labyrinth.netlify.app/",
@@ -10,7 +10,7 @@
       },
       {
         "image": "./movies.png",
-        "name": "Movie Site for Technigo",
+        "name": "Movie Site",
         "description": "bla bla",
         "techniques": ["React", "API", "CSS", "HTML", "JavaScript"],
         "netlify": "https://katarinas-movie-site.netlify.app/",
@@ -18,7 +18,7 @@
       },
       {
         "image": "./weather.png",
-        "name": "Weather App for Technigo",
+        "name": "Weather App",
         "description": "bla bla",
         "techniques": ["React", "API", "CSS", "HTML"],
         "netlify": "https://rococo-sunburst-79526b.netlify.app/",
@@ -26,7 +26,7 @@
       },
       {
         "image": "./happy.png",
-        "name": "Happy Thoughts for Technigo",
+        "name": "Happy Thoughts",
         "description": "bla bla",
         "techniques": ["React", "API", "CSS"],
         "netlify": "https://katarina-happy-thoughts.netlify.app/",
@@ -34,7 +34,7 @@
       },
       {
         "image": "./easter.png",
-        "name": "Easter Survey for Technigo",
+        "name": "Easter Survey",
         "description": "bla bla",
         "techniques": ["React", "CSS"],
         "netlify": "https://katarina-easter-survey.netlify.app/",
@@ -42,7 +42,7 @@
       },
       {
         "image": "./music.png",
-        "name": "Music Releases for Technigo",
+        "name": "Music Releases",
         "description": "bla bla",
         "techniques": ["React", "Spotify API", "CSS"],
         "netlify": "https://katarina-music-releases.netlify.app/",
@@ -50,7 +50,7 @@
       },
       {
         "image": "./todo.png",
-        "name": "Todo App for Technigo",
+        "name": "Todo App",
         "description": "bla bla",
         "techniques": ["HTML5", "CSS3", "JavaScript", "React", "API", "useContext"],
         "netlify": "https://kats-todo-app.netlify.app/",
@@ -58,7 +58,7 @@
       },
       {
         "image": "./toddler.png",
-        "name": "Technigo News App",
+        "name": "Technigo News",
         "description": "bla bla",
         "techniques": ["HTML5", "CSS3"],
         "netlify": "https://toddler-world.netlify.app/",
